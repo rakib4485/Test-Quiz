@@ -1,0 +1,26 @@
+.quiz-card{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(238, 237, 237);
+}
+.option-btn{
+    text-align: left;
+    margin-top: 5px;
+    background-color: rgb(238, 237, 237);
+    border: none;
+    padding: 2px;
+    width: 80%;
+
+}
+.option-btn:hover{
+    margin-top: 5px;
+    background-color: rgb(35, 180, 224);
+    border: none;
+
+}

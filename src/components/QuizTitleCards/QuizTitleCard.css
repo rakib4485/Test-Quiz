@@ -1,0 +1,30 @@
+.card{
+    width: 300px;
+    margin: 0 auto;
+}
+.card-body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.start-quiz-btn{
+    display: flex;
+    width: 150px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: aquamarine;
+    text-decoration: none;
+    color: rgb(58, 56, 56);
+}
+.start-quiz-btn p{
+    margin: 3px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.arrow-icon{
+    margin-left: 5px;
+    width: 20px;
+}
